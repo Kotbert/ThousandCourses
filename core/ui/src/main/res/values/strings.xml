@@ -1,0 +1,5 @@
+<resources>
+    <string name="course_card_favorite">Избранное</string>
+    <string name="course_card_more">Подробнее</string>
+    <string name="course_card_price">%s ₽</string>
+</resources>

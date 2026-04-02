@@ -1,0 +1,9 @@
+<resources>
+    <string name="profile_title">Аккаунт</string>
+    <string name="profile_support">Служба поддержки</string>
+    <string name="profile_settings">Настройки</string>
+    <string name="profile_logout">Выйти из аккаунта</string>
+    <string name="profile_my_courses">Мои курсы</string>
+    <string name="profile_progress_percent">%d%%</string>
+    <string name="profile_progress_lessons">%1$d/%2$d уроков</string>
+</resources>

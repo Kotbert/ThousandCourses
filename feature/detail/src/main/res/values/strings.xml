@@ -1,0 +1,9 @@
+<resources>
+    <string name="detail_author_label">Автор курса</string>
+    <string name="detail_author_name">Иван Иванов</string>
+    <string name="detail_start_button">Начать обучение</string>
+    <string name="detail_add_favorite">Добавить в избранное</string>
+    <string name="detail_remove_favorite">Убрать из избранного</string>
+    <string name="detail_about_title">О курсе</string>
+    <string name="detail_error">Ошибка загрузки данных</string>
+</resources>

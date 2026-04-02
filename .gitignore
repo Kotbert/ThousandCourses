@@ -1,0 +1,25 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Project exclude paths
+/core/database/build/
+/core/network/build/
+/core/ui/build/
+/feature/detail/build/
+/feature/favorites/build/
+/feature/home/build/
+/feature/login/build/
+/feature/profile/build/

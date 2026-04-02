@@ -1,0 +1,7 @@
+<resources>
+    <string name="home_search_placeholder">Найти курс</string>
+    <string name="home_filter">Фильтр</string>
+    <string name="home_sort_by_date">По дате публикации ↓</string>
+    <string name="home_sort_reset">Сброс сортировки</string>
+    <string name="home_error">Ошибка загрузки данных</string>
+</resources>
